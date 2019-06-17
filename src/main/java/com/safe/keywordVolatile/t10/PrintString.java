@@ -1,7 +1,7 @@
 package com.safe.keywordVolatile.t10;
 
 public class PrintString implements Runnable {
-    private boolean isContinuePrint=true;
+    private boolean isContinuePrint = true;
 
     public boolean isContinuePrint() {
         return isContinuePrint;
@@ -10,13 +10,14 @@ public class PrintString implements Runnable {
     public void setContinuePrint(boolean continuePrint) {
         isContinuePrint = continuePrint;
     }
-    public void printStringMethod(){
+
+    public void printStringMethod() {
         try {
-            while (isContinuePrint==true){
+            while (isContinuePrint == true) {
                 System.out.println(Thread.currentThread().getName());
                 Thread.sleep(1000);
             }
-        }catch (InterruptedException e){
+        } catch (InterruptedException e) {
             e.printStackTrace();
         }
     }
