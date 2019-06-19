@@ -1,0 +1,1041 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8f30162-c961-4f0f-a840-fd7786af8367" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/MyObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#312#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" selection-start-column="44" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/MyObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/MyObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+              <folding>
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/MyThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/Run.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/SaveAndRead.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="27" selection-start-line="27" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myObjectFile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="67" selection-start-column="67" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/taskLater/Task1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/taskLater/Task2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/taskLater/rUN.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/taskLater/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest2_period/MyTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest2_period/Run1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest2_period/Run2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest2_periodLater/Run1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest2_periodLater/Task1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/TimerTaskCancelMethod/Task1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/TimerTaskCancelMethod/Task2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/TimerTaskCancelMethod/Run1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelMethod/Task1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelMethod/Task2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelMethod/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelError/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelError/Task1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest3/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest4/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run4.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run6.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_0/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_0/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_0/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_1/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_1/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_1/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_2/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_3/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_3/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_4/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_4/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/SaveAndRead.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/MyObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/Run.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_9/MyObject.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\java软件\Repository1" />
+        <option name="mavenHome" value="D:/java软件/apache-maven-3.5.0" />
+        <option name="userSettingsFile" value="D:\java软件\apache-maven-3.5.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="testThread" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="582" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testThread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testThread" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testThread" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.SingletonModeWithMultithreading.singleton_8" />
+      <recent name="com.SingletonModeWithMultithreading.singleton_2" />
+      <recent name="com.useTimer.timerTest5" />
+      <recent name="com.useTimer.TimerCancelMethod" />
+      <recent name="com.useTimer.timerTest2_period" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\biyesheji\ideaproject\practice\testThread\src\main\java\com\SingletonModeWithMultithreading\singleton_7_1" />
+      <recent name="D:\biyesheji\ideaproject\practice\testThread\src\main\java\com\SingletonModeWithMultithreading\singleton_7" />
+      <recent name="D:\biyesheji\ideaproject\practice\testThread\src\main\java\com\SingletonModeWithMultithreading\singleton_4" />
+      <recent name="D:\biyesheji\ideaproject\practice\testThread\src\main\java\com\SingletonModeWithMultithreading\singleton_3" />
+      <recent name="、" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Run (2)">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SingletonModeWithMultithreading.singleton_7.Run" />
+      <module name="testThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SingletonModeWithMultithreading.singleton_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SingletonModeWithMultithreading.singleton_8.Run" />
+      <module name="testThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SingletonModeWithMultithreading.singleton_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SingletonModeWithMultithreading.singleton_3.Run" />
+      <module name="testThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SingletonModeWithMultithreading.singleton_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SingletonModeWithMultithreading.singleton_4.Run" />
+      <module name="testThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SingletonModeWithMultithreading.singleton_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveAndRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.SingletonModeWithMultithreading.singleton_7_1.SaveAndRead" />
+      <module name="testThread" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.SingletonModeWithMultithreading.singleton_7_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run (2)" />
+        <item itemvalue="Application.SaveAndRead" />
+        <item itemvalue="Application.Run (1)" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.Run (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8f30162-c961-4f0f-a840-fd7786af8367" name="Default Changelist" comment="" />
+      <created>1559705933616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559705933616</updated>
+      <workItem from="1559705936582" duration="2996000" />
+      <workItem from="1559712177114" duration="4105000" />
+      <workItem from="1559720079805" duration="12090000" />
+      <workItem from="1559790831351" duration="17113000" />
+      <workItem from="1559877027815" duration="598000" />
+      <workItem from="1560043566898" duration="13086000" />
+      <workItem from="1560147664172" duration="1085000" />
+      <workItem from="1560234094760" duration="1728000" />
+      <workItem from="1560243890197" duration="11205000" />
+      <workItem from="1560335873372" duration="8595000" />
+      <workItem from="1560476732428" duration="30297000" />
+      <workItem from="1560673220912" duration="2272000" />
+      <workItem from="1560733992937" duration="4181000" />
+    </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1559809881817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559809881817</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1560148122678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560148122678</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1560735450977</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560735450977</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1560735493985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1560735493985</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="109351000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Nl-Palette" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.1977612" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="1" weight="0.32924107" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3351893" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32925472" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32516703" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.3986637" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Properties" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" order="7" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.32995737" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Nl-Palette" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Web" order="5" side_tool="true" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.19349681" />
+      <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Application Servers" order="1" weight="0.32924107" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3351893" />
+      <window_info anchor="bottom" id="Java Enterprise" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.32925472" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32962137" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.32516703" />
+      <window_info active="true" anchor="bottom" id="Debug" order="9" visible="true" weight="0.3986637" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32925472" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" />
+      <window_info anchor="right" id="Properties" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Commander" order="7" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.32995737" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelMethod/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/taskLater/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/TimerTaskCancelMethod/Run1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="18" column="42" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="18" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelMethod/Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelMethod/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="38" selection-start-column="21" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelError/Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+          <folding>
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Java/jdk1.8.0_121/src.zip!/java/util/Timer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="182" column="72" lean-forward="true" selection-start-line="182" selection-start-column="21" selection-end-line="182" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/TimerCancelError/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/timerTest3/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="18" column="39" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/timerTest4/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run6.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useTimer/timerTest5/Run5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/useLock/useReentrantReadWriteLock/ReadWriteLockBegin1/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/TEST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_0/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_0/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_0/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_1/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding>
+            <element signature="e#134#135#0" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_1/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_1/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="44" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_2/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_2/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_2_2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="44" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_3/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_3/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_3/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_4/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_4/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_4/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="44" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/Run.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myObjectFile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/SaveAndRead.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="27" selection-start-line="27" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_7_1/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_9/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/SingletonModeWithMultithreading/singleton_8/MyObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>testThread</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
